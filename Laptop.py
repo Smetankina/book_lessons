@@ -17,6 +17,5 @@ class Laptop:
         self.price = price
         self.laptop_name = f"{brand} {model}"
 
-
-laptop1 = Laptop('a', 'a', 8)
-laptop2 = Laptop('a', 'a', 8)
+laptop1=Laptop('Asus', '18-bdfx', 37000)
+laptop2=Laptop('Samsung', '13-bsdf0xx', 47000)
